@@ -1,1 +1,38 @@
+# Visual Studio cache
+.vs/
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Published output
+/dist/
+/publish/
+/out/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IIS Express
+/.vs/
+/iisexpress/
+
+# Rider / JetBrains
+.idea/
+
+# Node (if you ever add frontend)
 node_modules/
+
+# NuGet packages
+*.nupkg
+
+# Auto-generated files
+Generated/
